@@ -1,7 +1,9 @@
 # MSI-MAG-Z490-TOMAHAWK-i7-10700k-OpenCore
 
 MSI MAG Z490 TOMAHAWK i7 10700k 成功安装MacOS Catalina 10.15.6。
+
 主板信息：<a href="https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK/Specification" >MSI -></a>
+
 **引导程序: OpenCore 0.6.0**
 
 # 硬件
