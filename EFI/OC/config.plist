@@ -538,9 +538,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>...</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>...</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
