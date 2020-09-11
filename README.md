@@ -20,7 +20,11 @@ MSI MAG Z490 TOMAHAWK i7 10700k 成功安装MacOS Catalina 10.15.6。
 
 - [x] **ALCS1200A**：自编 AppleALC.kext, layout-id=11（已提交AppleALC.kext)
 - [x] **USB**：USBInjectAll.kext
-- [x] **UHD630**
+- [x] **UHD630（无头模式）**
 - [x] **RX 590 8G**
 - [x] **iMessage/FaceTime**
 - [x] **睡眠/唤醒**
+
+# 注意
+
+如果没有独显，请修改配置文件中的核显信息和驱动
