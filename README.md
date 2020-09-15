@@ -27,4 +27,5 @@ MSI MAG Z490 TOMAHAWK i7 10700k 成功安装MacOS Catalina 10.15.6。
 
 # 注意
 
-如果没有独显，请修改配置文件中的核显信息和驱动
+- 如果没有独显，请修改配置文件中的核显信息和驱动
+- 重启无声和2.5g网卡解决方法：<a href="https://github.com/owen0o0/MSI-MAG-Z490-TOMAHAWK-i7-10700k-OpenCore/issues/3" >#3</a>
